@@ -1,0 +1,90 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "author": "Toxir Malik",
+      "title": "Shaytanat",
+      "id": 2
+    }
+  ],
+  "davlatlar": [
+    {
+      "id":1,
+      "name":"Germany",
+      "img":"",
+      "population":"81,770,900",
+      "region":"Europe",
+      "capital":"Berlin"
+    },
+    {
+      "id":2,
+      "name":"United States of Ame",
+      "img":"",
+      "population":"323,947,000",
+      "region":"Americas",
+      "capital":"Washington,D.C"
+    },
+    {
+      "id":3,
+      "name":"Brazil",
+      "img":"",
+      "population":"206,135,893",
+      "region":"Americas",
+      "capital":"Brasilia"
+    },
+    {
+      "id":4,
+      "name":"Iceland",
+      "img":"",
+      "population":"334,300,000",
+      "region":"Europe",
+      "capital":"Reykjavik"
+    },
+    {
+      "id":5,
+      "name":"Afghanistan",
+      "img":"",
+      "population":"27,657,145",
+      "region":"Asia",
+      "capital":"Kabul"
+    },
+    {
+      "id":6,
+      "name":"Aland Islands",
+      "img":"",
+      "population":"28,875,000",
+      "region":"Europe",
+      "capital":"Mariehamn"
+    },
+    {
+      "id":7,
+      "name":"Albania",
+      "img":"",
+      "population":"2,886,026",
+      "region":"Europe",
+      "capital":"Tirana"
+    },
+    {
+      "id":8,
+      "name":"Algeria",
+      "img":"",
+      "population":"40,400,000",
+      "region":"Africa",
+      "capital":"Algiers"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
