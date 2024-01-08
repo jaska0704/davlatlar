@@ -15,7 +15,7 @@
     {
       "id":1,
       "name":"Germany",
-      "img":"",
+      "img":"https://raw.githubusercontent.com/jaska0704/davlatlar/master/client/images/germaniya.png",
       "population":"81,770,900",
       "region":"Europe",
       "capital":"Berlin"
@@ -23,7 +23,7 @@
     {
       "id":2,
       "name":"United States of Ame",
-      "img":"",
+      "img":"https://raw.githubusercontent.com/jaska0704/davlatlar/master/client/images/aqsh.png",
       "population":"323,947,000",
       "region":"Americas",
       "capital":"Washington,D.C"
@@ -31,7 +31,7 @@
     {
       "id":3,
       "name":"Brazil",
-      "img":"",
+      "img":"https://raw.githubusercontent.com/jaska0704/davlatlar/master/client/images/braziliya.png",
       "population":"206,135,893",
       "region":"Americas",
       "capital":"Brasilia"
@@ -39,7 +39,7 @@
     {
       "id":4,
       "name":"Iceland",
-      "img":"",
+      "img":"https://raw.githubusercontent.com/jaska0704/davlatlar/master/client/images/islandiya.png",
       "population":"334,300,000",
       "region":"Europe",
       "capital":"Reykjavik"
@@ -47,7 +47,7 @@
     {
       "id":5,
       "name":"Afghanistan",
-      "img":"",
+      "img":"https://raw.githubusercontent.com/jaska0704/davlatlar/master/client/images/afgonston.png",
       "population":"27,657,145",
       "region":"Asia",
       "capital":"Kabul"
@@ -55,7 +55,7 @@
     {
       "id":6,
       "name":"Aland Islands",
-      "img":"",
+      "img":"https://raw.githubusercontent.com/jaska0704/davlatlar/master/client/images/aland_island.png",
       "population":"28,875,000",
       "region":"Europe",
       "capital":"Mariehamn"
@@ -63,7 +63,7 @@
     {
       "id":7,
       "name":"Albania",
-      "img":"",
+      "img":"https://raw.githubusercontent.com/jaska0704/davlatlar/master/client/images/albaniya.png",
       "population":"2,886,026",
       "region":"Europe",
       "capital":"Tirana"
@@ -71,7 +71,7 @@
     {
       "id":8,
       "name":"Algeria",
-      "img":"",
+      "img":"https://raw.githubusercontent.com/jaska0704/davlatlar/master/client/images/algeriya.png",
       "population":"40,400,000",
       "region":"Africa",
       "capital":"Algiers"
